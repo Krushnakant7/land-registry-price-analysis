@@ -51,7 +51,7 @@ Three linked views plus a distribution chart, so the top 10 isn't just asserted:
 2. Small multiples - each top-10 district's quarterly trajectory shown separately (an earlier version tried to fit all 10 on one axis and was unreadable)
 3. A ranking bar chart of the top 10 by average quarterly growth
 
-Built in Tableau Public: [link to be added]
+Built in Tableau Public: [View the dashboard](https://public.tableau.com/views/Districts10/EnglandandWaleshouseprices2025?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Exclusions and caveats
 
