@@ -1,3 +1,5 @@
+DuckDB, SQL, and Tableau - 933k transactions, 316 districts.
+
 # England and Wales house prices, 2025
 
 ## The question
